@@ -13,7 +13,7 @@
 
 Welcome, developers and GitHub visitors!  
 
-I'm **Harsh Kumar Singh**, the creator of this **Walkie-Talkie** application, inspired by a series where soldiers communicated using traditional walkie-talkies. That concept sparked an idea—why not bring the same experience into a modern app? 🚀  
+I'm **Shivam Gupta**, the creator of this **Walkie-Talkie** application, inspired by a series where soldiers communicated using traditional walkie-talkies. That concept sparked an idea—why not bring the same experience into a modern app? 🚀  
 
 ## 📌 About the App  
 This application enables real-time communication using **WebRTC** technology, allowing users to:  
