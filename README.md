@@ -1,7 +1,7 @@
-<img src='https://github.com/Developer-Harsh/Walkie-Talkie/blob/master/graphics/cover.png?raw=true'>
 
 <div align="center">
     <img src="/screenshot/main.png" alt="Splash Screen" height="400" />
+    <img src="/screenshot/onboard%20-%20tw.png" alt="Onboard Screen" height="400" />
     <img src="/screenshot/main%20-%20tw.png" alt="Home Screen" height="400" />
     <img src="/screenshot/text%20-%20tw.png" alt="Text Message" height="400" />
     <img src="/screenshot/video%20-%20tw.png" alt="Video Message" height="400" />
